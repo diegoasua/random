@@ -25,7 +25,7 @@ enviroment:
 6. Activate the environment created by iblrig:
 
     ```commandline
-   conda activate iblrig
+   conda activate iblenv
     ```
    
 7. You can now launch `pybpod` (a GUI should appear):
